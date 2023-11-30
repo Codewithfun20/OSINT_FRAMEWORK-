@@ -7,3 +7,4 @@ information gathering.
 # module installation
 pip install webbrowser
 pip install termcilor
+pip install time
